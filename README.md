@@ -27,17 +27,18 @@
 1. **克隆本仓库至本地：**
    ```
    git clone https://github.com/Alosr0801/MysticIsle.git
-   ```
+   ```   
 2. **编译代码：**
 
   ```
-    cd MysticIsle/src
+  cd MysticIsle/src
   javac com/example/*.java
-  ```
+  ```  
 3.**运行游戏：**
     ```
-    java com.example.Main
-    ```
+  java com.example.Main
+    ```  
+    
 **操作指南**
 游戏通过命令行交互。当提示时输入对应选项的数字并按下回车键，即可执行相应行动。  
 
