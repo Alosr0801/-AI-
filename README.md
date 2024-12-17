@@ -25,18 +25,20 @@
 ## 快速开始
 
 1. **克隆本仓库至本地：**
-   ```
-   git clone https://github.com/Alosr0801/MysticIsle.git
-   ```   
+```
+git clone https://github.com/Alosr0801/MysticIsle.git
+```
+
 2. **编译代码：**
 
   ```
-  cd MysticIsle/src
-  javac com/example/*.java
-  ```  
+cd MysticIsle/src
+javac com/example/*.java
+  ```
+
 3.**运行游戏：**  
     ```
-  java com.example.Main
+java com.example.Main
     ```  
     
 **操作指南**  
