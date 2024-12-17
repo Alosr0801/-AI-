@@ -38,7 +38,7 @@ javac com/example/*.java
 
 3.**运行游戏：**  
     ```
-java com.example.Main
+java Main.java
     ```  
     
 **操作指南**  
